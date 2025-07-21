@@ -1,6 +1,7 @@
    # Intelligent Traffic Management System using Machine Learning Model
        
-      To dynamically control traffic lights using AI-powered vehicle detection and density estimation in real-time, optimizing traffic flow and reducing congestion.
+      To dynamically control traffic lights using AI-powered vehicle detection and density estimation in real-time,
+      optimizing traffic flow and reducing congestion.
 
 # 1. itms-yolov3.py
 This is the main script.
@@ -31,7 +32,7 @@ ________________________________________________________________________________
    # 1. Image/Video Input:
         Feeds real-time footage or images from traffic cameras.
 
-   # 2. YOLOv3 Detection:**
+   # 2. YOLOv3 Detection:
         Detects vehicles using pretrained weights.
         Counts number of vehicles in each lane.
 
