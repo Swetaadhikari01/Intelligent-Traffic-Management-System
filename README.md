@@ -19,6 +19,14 @@ Contains utility scripts:
 
 **itms-yolo-m4-01.py**: Alternative YOLO model handler.
 
+**model.py**:	Loads the YOLOv3 model
+
+**parser.py**:	Parses input/output data
+
+**moduler.py**:	Contains modular reusable code for prediction
+
+**utils.py**:	Helper functions (e.g., bounding box drawing, frame resizing)
+
 # 3. config/yolov3.cfg
 YOLOv3 configuration file defining layers and parameters for object detection.
 
