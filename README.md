@@ -10,6 +10,7 @@ Estimates traffic density to control signal timing dynamically.
 
 # 2. util/
 Contains utility scripts:
+
 **dynamic_signal_switching.py**: Core logic for adjusting traffic lights based on traffic density.
 
 **image_processor.py**: Preprocessing traffic images for analysis.
